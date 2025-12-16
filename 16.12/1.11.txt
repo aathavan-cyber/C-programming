@@ -1,0 +1,2 @@
+answer for ex 1.11
+i would test the word count program by trying various inputs like , empty input, only blank spaces, large input etc
